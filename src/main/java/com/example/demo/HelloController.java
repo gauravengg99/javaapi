@@ -11,4 +11,8 @@ public class HelloController {
     public String home() {
         return "Hello Java Web App!";
     }
+    @GetMapping("/about")
+    public String About(){
+        return "Hello From About";
+    }
 }
