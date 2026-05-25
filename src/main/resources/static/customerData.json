@@ -1,0 +1,324 @@
+[
+  {
+    "name": "Jagdish Industries ",
+    "machineModel": "AC-40",
+    "latitude": 15.36,
+    "longitude": 75.12,
+    "location": "Hubli , Karnataka"
+  },
+  {
+    "name": "Globus Plastics India Pvt. Ltd. / Safari Chemical Pvt. Ltd.",
+    "machineModel": "DRDC 200",
+    "latitude": 26.0,
+    "longitude": 80.0,
+    "location": "Kanpur , Utter Pradesh"
+  },
+  {
+    "name": "Kisan Plastics/MRA Plastic",
+    "machineModel": "AC-60",
+    "latitude": 10.38,
+    "longitude": 78.81,
+    "location": "Pudukkottai , Tamil Nadu"
+  },
+  {
+    "name": "VIN Petrochem Group / Pearl Poly Pack",
+    "machineModel": "AC-90",
+    "latitude": 26.44,
+    "longitude": 80.34,
+    "location": "Kanpur , Utter Pradesh"
+  },
+  {
+    "name": "Sunbright packaging- Surmeet Polyplast ",
+    "machineModel": "AC-40",
+    "latitude": 20.4,
+    "longitude": 72.85,
+    "location": "Daman , Daman"
+  },
+  {
+    "name": "Madhusudan Packwell Pvt. Ltd",
+    "machineModel": "AC-40",
+    "latitude": 20.97,
+    "longitude": 78.96,
+    "location": "Nagpur , Maharashtra"
+  },
+  {
+    "name": "Aashray polychem",
+    "machineModel": "AC-40",
+    "latitude": 22.27,
+    "longitude": 70.79,
+    "location": "Rajkot , Gujarat"
+  },
+  {
+    "name": "Osho Industries Limited",
+    "machineModel": "AC-60",
+    "latitude": 29.94,
+    "longitude": 77.78,
+    "location": "Roorkee , Uttarakhand"
+  },
+  {
+    "name": "Vraddhi Industries PVT Ltd.",
+    "machineModel": "AC-60",
+    "latitude": 28.67,
+    "longitude": 77.45,
+    "location": "Gaziabad , Utter Pradesh"
+  },
+  {
+    "name": "Basant Agro tech india ltd",
+    "machineModel": "AC-40",
+    "latitude": 20.7,
+    "longitude": 77.0,
+    "location": "Akola , Maharashtra"
+  },
+  {
+    "name": "Innova polypack",
+    "machineModel": "100V",
+    "latitude": 12.97,
+    "longitude": 77.57,
+    "location": "bangalore , Karnataka"
+  },
+  {
+    "name": "VENKATESH PLASTIC INDUSTRIES",
+    "machineModel": "100V",
+    "latitude": 30.27,
+    "longitude": 78.03,
+    "location": "Kolkata , West Bengal"
+  },
+  {
+    "name": "Agrani Plastic PVT Ltd. / DIPALI INDUSTRIES",
+    "machineModel": "90V",
+    "latitude": 18.62,
+    "longitude": 72.9,
+    "location": "Sangli , Maharashtra"
+  },
+  {
+    "name": "RSR Polyplast",
+    "machineModel": "GR-18 , DS-600",
+    "latitude": 20.42,
+    "longitude": 72.84,
+    "location": "Vapi , Gujarat"
+  },
+  {
+    "name": "H I C Industries ",
+    "machineModel": "AC-40",
+    "latitude": 20.99,
+    "longitude": 78.98,
+    "location": "Nagpur , Maharashtra"
+  },
+  {
+    "name": "Goverdhan Polygran P L. GPGPL ",
+    "machineModel": "AC-40",
+    "latitude": 20.35,
+    "longitude": 72.93,
+    "location": "Vapi , Gujarat"
+  },
+  {
+    "name": "Dujnia Polychem Pvt Ltd ",
+    "machineModel": "AC-40",
+    "latitude": 30.91,
+    "longitude": 75.85,
+    "location": "ludhiyana , Punjab"
+  },
+  {
+    "name": "Pragyansh Enterprises",
+    "machineModel": "AC-90",
+    "latitude": 22.71,
+    "longitude": 75.88,
+    "location": "Indore , Madhya Pradesh"
+  },
+  {
+    "name": "Dass Polymers Pvt Ltd",
+    "machineModel": "AC-40",
+    "latitude": 28.51,
+    "longitude": 77.28,
+    "location": "New Delhi , Delhi"
+  },
+  {
+    "name": "Banu Plasttic Containers",
+    "machineModel": "AC-40",
+    "latitude": 9.9,
+    "longitude": 78.13,
+    "location": "Madurai , Tamil Nadu"
+  },
+  {
+    "name": "Rishabh Lakshmi Mouldings Pvt Ltd ",
+    "machineModel": "AC-60",
+    "latitude": 26.75,
+    "longitude": 83.38,
+    "location": "Gorakhpur , Utter Pradesh"
+  },
+  {
+    "name": "VIGHNAHARTA POLYMERS PVT LTD.",
+    "machineModel": "AC-60",
+    "latitude": 17.88,
+    "longitude": 75.02,
+    "location": "Solapur , Maharashtra"
+  },
+  {
+    "name": "Vaibhav Printpack ",
+    "machineModel": "AC-60",
+    "latitude": 12.99,
+    "longitude": 77.59,
+    "location": "Bangalore , Karnataka"
+  },
+  {
+    "name": "Aditya Multipack",
+    "machineModel": "AC-40",
+    "latitude": 10.4,
+    "longitude": 78.83,
+    "location": "Pudukkottai , Tamil Nadu"
+  },
+  {
+    "name": "Shobha Plastics Industries",
+    "machineModel": "AC-40",
+    "latitude": 26.95,
+    "longitude": 75.68,
+    "location": "Jaipur , Rajasthan"
+  },
+  {
+    "name": "Ace Flexi;QUANTA GROUP/ACE FLEXI PACK PVT. LTD",
+    "machineModel": "AC-60",
+    "latitude": 26.93,
+    "longitude": 75.66,
+    "location": "Jaipur , Rajasthan"
+  },
+  {
+    "name": "JMT Plasp Pvt. Ltd.",
+    "machineModel": "AC-40",
+    "latitude": 28.21,
+    "longitude": 76.86,
+    "location": "Bhiwadi , Rajasthan"
+  },
+  {
+    "name": "Qualicare Biopharm Pvt ltd",
+    "machineModel": "AC-60",
+    "latitude": 21.48,
+    "longitude": 80.29,
+    "location": "Karanja , Maharashtra"
+  },
+  {
+    "name": "SHREERAM NETS PVT LTD",
+    "machineModel": "AC-60",
+    "latitude": 21.3,
+    "longitude": 78.39,
+    "location": "Telegaon , Maharastra"
+  },
+  {
+    "name": "PLASTOMATIC INDUSTRIES",
+    "machineModel": "AC-40",
+    "latitude": 20.95,
+    "longitude": 78.94,
+    "location": "Nagpur , Maharashtra"
+  },
+  {
+    "name": "MACRO SHEET INDIA LIMITED",
+    "machineModel": "AC-60",
+    "latitude": 26.91,
+    "longitude": 75.64,
+    "location": "Jaipur , Rajasthan"
+  },
+  {
+    "name": "Sanmati Industries",
+    "machineModel": "AC-40",
+    "latitude": 20.41,
+    "longitude": 72.86,
+    "location": "Daman , Gujarat"
+  },
+  {
+    "name": "BENZ PACKAGING",
+    "machineModel": "AC-40",
+    "latitude": 28.36,
+    "longitude": 76.92,
+    "location": "IMT Manesar , Haryana"
+  },
+  {
+    "name": "UR Pack tech",
+    "machineModel": "AC-40",
+    "latitude": 23.59,
+    "longitude": 85.67,
+    "location": "Ranchi , Jharkhand"
+  },
+  {
+    "name": "Maruti Poly Film Pack LLP",
+    "machineModel": "AC-60",
+    "latitude": 20.32,
+    "longitude": 72.95,
+    "location": "Dadra , Dadra and Nagar Havel"
+  },
+  {
+    "name": "Polygreen industries",
+    "machineModel": "AC-40",
+    "latitude": 22.95,
+    "longitude": 72.61,
+    "location": "Ahmedabad , Gujarat"
+  },
+  {
+    "name": "Sank krupa enterprises",
+    "machineModel": "90V",
+    "latitude": 20.05,
+    "longitude": 73.8,
+    "location": "Sambha Ji Nagar , Maharashtra"
+  },
+  {
+    "name": "SAPTHAGIRI PACKAGING UNIT 2",
+    "machineModel": "AC-40",
+    "latitude": 11.92,
+    "longitude": 79.82,
+    "location": "Puducherry , Puducherry"
+  },
+  {
+    "name": "Uni Flexipack LLP",
+    "machineModel": "AC-40",
+    "latitude": 20.16,
+    "longitude": 72.76,
+    "location": "Valsad , Gujarat"
+  },
+  {
+    "name": "OM Industries",
+    "machineModel": "AC-40",
+    "latitude": 23.08,
+    "longitude": 72.66,
+    "location": "Ahmedabad , Gujarat"
+  },
+  {
+    "name": "ARIHANT TECHNOPACK",
+    "machineModel": "AC-60",
+    "latitude": 28.99,
+    "longitude": 77.02,
+    "location": "Sonipat, Haryana"
+  },
+  {
+    "name": "Sunil Industries",
+    "machineModel": "AC-40",
+    "latitude": 17.66,
+    "longitude": 75.93,
+    "location": "Solapur , Maharashtra"
+  },
+  {
+    "name": "RK Polyprint",
+    "machineModel": "AC-40",
+    "latitude": 23.09,
+    "longitude": 77.51,
+    "location": "mandideep , Madhya Pradesh"
+  },
+  {
+    "name": "SB Packagings - Parikh Packagings",
+    "machineModel": "AC-60",
+    "latitude": 22.9,
+    "longitude": 72.42,
+    "location": "Ahmedabad , Gujarat"
+  },
+  {
+    "name": "Sita polymers - Arave Industries - Green Pak",
+    "machineModel": "AC-40",
+    "latitude": 30.32,
+    "longitude": 78.0,
+    "location": "Jaipur , Rajashthan"
+  },
+  {
+    "name": "Adarsh Polymer",
+    "machineModel": "AC-40",
+    "latitude": 28.99,
+    "longitude": 79.4,
+    "location": "Rudrapur , Uttrakhand"
+  }
+]
